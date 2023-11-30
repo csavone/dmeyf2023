@@ -1,0 +1,3 @@
+El envío elegido sale de Hibri_5.R, que es la hibridación o ensamble de 4 modelos-ensambles de semillas
+Los modelos "BO1" (BO1first_nb03_fq2_5seeds_9m y BO1second_nb03_fq2_5seeds_9m), salen de utilizar los primeros mejores hiperparámetros y los segundos mejores hiperparámetros de la optimización bayesiana indicada como BO1
+Los modelos "BOJR" (BOJRfirst_nb03_fq2_5seeds_20m y BOJRsecond_nb03_fq2_5seeds_20m), salen de utilizar los primeros mejores hiperparámetros y los segundos mejores hiperparámetros de la optimización bayesiana indicada como BOJR, que corresponden a la corrida de Juan Raman en la segunda competencia
